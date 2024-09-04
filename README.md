@@ -1,6 +1,6 @@
 # Terraform Study Repository
 
-!![Terraform](https://wmpromus.com/app/uploads/2023/03/terraform-1024x512.png)
+![Terraform](https://wmpromus.com/app/uploads/2023/03/terraform-1024x512.png)
 
 ## 소개
 
